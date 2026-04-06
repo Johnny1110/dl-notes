@@ -6,6 +6,13 @@
 
 <br>
 
+## Before You Start
+
+run `pip install -r requirements.txt` to install all the dependencies.
+
+<br>
+<br>
+
 ## Road Map
 
 

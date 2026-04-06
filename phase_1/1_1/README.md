@@ -24,7 +24,24 @@ Here's the theory behind where to begin and why:
 1. [Vectors | Chapter 1, Essence of linear algebra](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=2)
 2. [Linear combinations, span, and basis vectors | Chapter 2, Essence of linear algebra](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=3)
 3. [矩陣與線性變換](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=4)
-4. [矩陣乘法與線性變換復合聯繫](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=5) 👈 
+4. [矩陣乘法與線性變換復合聯繫](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=5) -> 矩陣乘法不符合交換律，但符合結合律。
+
+    * AB != BA
+    * (AB)C = A(BC)
+
+    4-附錄. [三維空間線性變換](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=6) 
+  
+5. [行列式](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=7) 👈 
+
+
+<br>
+<br>
+
+### How to run jupyter notebook to practice metrics and vectors:
+
+```
+jupyter notebook
+```
 
 
 
