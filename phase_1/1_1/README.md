@@ -31,7 +31,9 @@ Here's the theory behind where to begin and why:
 
     4-附錄. [三維空間線性變換](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=6) 
   
-5. [行列式](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=7) 👈 
+5. [行列式 det()](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=7)
+6. [逆矩阵、列空间、秩与零空间](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=8)
+7. [点积与对偶性](https://www.bilibili.com/video/BV1ib411t7YR?spm_id_from=333.788.videopod.episodes&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=10) 👈
 
 
 <br>
