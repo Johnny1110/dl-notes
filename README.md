@@ -532,3 +532,15 @@ Output
 ---
 
 > 💡 **給自己的提醒**：不要為了趕進度而跳過「手刻實作」。理解原理比跑得快重要。遇到卡關的時候，回頭重看前一個階段的內容，通常是基礎不夠扎實。
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## 隨記
+
+* [From attention to agent Era](gossip/attention2agent)
