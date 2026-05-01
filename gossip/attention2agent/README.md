@@ -12,9 +12,9 @@
 
 #### 了解原理是用好 AI 的第一步
 
-* 1. Seq2Seq 模型的運作原理 (**Encoder-Decoder 模型**) -> [link](1-1.md)
-* 2. 注意力機制的概念與計算過程 (**Encoder-Decoder 模型 + 注意力機制**) -> [link]()
-* 3. 自注意力機制與 Transformer 的精神  (**Seq2Seq 模型 + 自注意力機制**) -> [link]()
+* 1. Seq2Seq 模型的運作原理 (**Seq2Seq 模型**) -> [link](1-1.md)
+* 2. 注意力機制的概念與計算過程 (**Seq2Seq 模型 + 注意力機制**) -> [link](1-2.md)
+* 3. 自注意力機制與 Transformer 的精神  (**Seq2Seq 模型 + 自注意力機制**) -> [link](1-3.md)
 
 <br>
 
