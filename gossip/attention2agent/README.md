@@ -22,12 +22,14 @@
 
 #### claude code 就是極致的 Harness
 
-* 1. 基本框架: Agent Loop
-* 2. 使用工具: Tool Use
-* 3. 小步驟規劃: TodoWrite
-* 4. 技能: Skills
-* 5. Context 管理: `/clear`, `/compact`
-* 6. 並行任務: Background Tasks
+* 1. 基本框架: Agent Loop -> [link](2-1.md)
+* 2. 使用工具: Tool Use -> [link](2-2.md)
+* 3. 小步驟規劃: TodoWrite -> [link](2-3.md)
+* 4. 分身: Subagent -> [link](2-4.md)
+* 5. 技能: Skills -> [link](2-5.md)
+* 6. Context 管理: `/clear`, `/compact` -> [link](2-6.md)
+* 7. 並行任務: Background Tasks -> [link](2-7.md)
+* 8. Agent 協作: 未完待續..
 
 <br>
 
