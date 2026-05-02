@@ -89,6 +89,10 @@ run `pip install -r requirements.txt` to install all the dependencies.
 - 能手算一個簡單函數的偏微分並用鏈式法則推導
 - 能解釋 Softmax 函數做了什麼事、為什麼輸出總和為 1
 
+### Work Dir
+
+* Phase 1 -> [link](phase_1)
+
 <br>
 
 ---
