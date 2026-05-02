@@ -164,7 +164,7 @@ run `pip install -r requirements.txt` to install all the dependencies.
 
 ### 推薦資源
 
-- [Andrej Karpathy — Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)（從零手刻，非常適合你）
+- [Andrej Karpathy — Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)（從零手刻）
 - [PyTorch 官方教程](https://pytorch.org/tutorials/)
 
 ### 驗收標準
@@ -173,6 +173,10 @@ run `pip install -r requirements.txt` to install all the dependencies.
 - 能清楚解釋 Backpropagation 在做什麼（不只是概念，是數學流程）
 - 能用 PyTorch 訓練一個 MNIST 分類器並達到 >95% 準確率
 - 能解釋 overfitting 是什麼、怎麼發現、怎麼處理
+
+<br>
+
+[Neural Networks: Zero to Hero - 學習入口](phase_1/neural_networks_zero_2_here)
 
 <br>
 
@@ -227,6 +231,8 @@ run `pip install -r requirements.txt` to install all the dependencies.
 - 能解釋 CNN 的卷積操作在數學上做了什麼
 - 能解釋 RNN 的梯度消失問題，以及 LSTM 如何緩解它
 - 能清楚說出「為什麼 RNN 不能平行計算但 Transformer 可以」
+
+
 
 <br>
 
