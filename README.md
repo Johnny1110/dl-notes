@@ -51,6 +51,8 @@ run `pip install -r requirements.txt` to install all the dependencies.
 - Matplotlib 基本繪圖（用來視覺化訓練過程）
 - Jupyter Notebook 的使用習慣（ML 領域的標準實驗環境）
 
+<br>
+
 ### 數學：線性代數
 
 | 主題 | 為什麼需要 |
@@ -60,6 +62,12 @@ run `pip install -r requirements.txt` to install all the dependencies.
 | 矩陣的形狀（Shape）與廣播（Broadcasting） | 你會花大量時間 debug tensor shape 不匹配的問題 |
 | 特徵值與特徵向量（概念即可） | 理解 PCA、理解為什麼某些矩陣操作有效 |
 
+<br>
+
+[線性代數 - 學習入口](phase_0/linear_algebra)
+
+<br>
+
 ### 數學：微積分
 
 | 主題 | 為什麼需要 |
@@ -68,6 +76,12 @@ run `pip install -r requirements.txt` to install all the dependencies.
 | 鏈式法則（Chain Rule） | 反向傳播（Backpropagation）的數學基礎 |
 | 梯度（Gradient） | 多維空間中的導數，控制模型參數更新的方向和幅度 |
 
+<br>
+
+[微積分 - 學習入口](phase_0/calculus)
+
+<br>
+
 ### 數學：機率與統計
 
 | 主題 | 為什麼需要 |
@@ -75,6 +89,8 @@ run `pip install -r requirements.txt` to install all the dependencies.
 | 機率分佈（常態分佈、均勻分佈） | 權重初始化、資料分佈的理解 |
 | 條件機率、貝氏定理 | 理解語言模型的生成邏輯：P(下一個字 \| 前面的字) |
 | Softmax 函數 | 把任意數值轉成機率分佈，分類問題和 Attention 都會用到 |
+
+<br>
 
 ### 推薦資源
 
@@ -88,10 +104,6 @@ run `pip install -r requirements.txt` to install all the dependencies.
 - 能解釋什麼是梯度，以及它跟「學習」的關係
 - 能手算一個簡單函數的偏微分並用鏈式法則推導
 - 能解釋 Softmax 函數做了什麼事、為什麼輸出總和為 1
-
-### Work Dir
-
-* Phase 1 -> [link](phase_1)
 
 <br>
 
