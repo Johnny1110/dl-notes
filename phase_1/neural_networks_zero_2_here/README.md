@@ -22,6 +22,9 @@
 * P4: [构建 makemore 第三部分：激活函数与梯度，批量归一化](https://www.bilibili.com/video/BV1mqrTBvEaf?spm_id_from=333.788.videopod.sections&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=4)
 * P5: [构建 makemore 第四部分：成为反向传播高手](https://www.bilibili.com/video/BV1mqrTBvEaf?spm_id_from=333.788.videopod.sections&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=5)
 * P6: [构建 makemore 第五部分：构建 WaveNet](https://www.bilibili.com/video/BV1mqrTBvEaf?spm_id_from=333.788.videopod.sections&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=6)
+
+以下建議留到 Phase-3 在進行
+
 * P7: [从零开始，用代码详解构建 GPT](https://www.bilibili.com/video/BV1mqrTBvEaf?spm_id_from=333.788.videopod.sections&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=7)
 * P8: [GPT现状 | BRK216HFS](https://www.bilibili.com/video/BV1mqrTBvEaf?spm_id_from=333.788.videopod.sections&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=8)
 * P9: [构建 GPT 分词器](https://www.bilibili.com/video/BV1mqrTBvEaf?spm_id_from=333.788.videopod.sections&vd_source=9780a181ac9f1fee5f680f255ee5bc73&p=9)
